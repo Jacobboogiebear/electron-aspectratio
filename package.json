@@ -1,0 +1,15 @@
+{
+  "name": "electron-aspectratio",
+  "version": "1.0.0",
+  "description": "An electron.js library for setting and locking a desired aspect ratio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Allen Morris",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jacobboogiebear/electron-aspectratio.git"
+  },
+  "license": "MIT"
+}
