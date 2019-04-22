@@ -4,6 +4,7 @@ This library was made for people who are sick of their electronjs projects needi
 It only has 2 commands but they work great for what they are needed for!
 It didn't take long to create this but it is still better then not having it!
 ### Alright, that wasn't much but I'll try it
+
 ![Alt Text](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif)
 Ok, so here is the basic documentation down below!
 
@@ -45,4 +46,5 @@ The above is simple, so I don't think there is more to say!
 You can end the ratio handler by doing
 ```__windowHandler__.stop()```
 but you can start it again afterwards by doing the normal commands!
+
 ![Alt Text](https://media.giphy.com/media/2t9sddFwLHT5fhuT7g/giphy.gif)
