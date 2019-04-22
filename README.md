@@ -6,6 +6,7 @@ It didn't take long to create this but it is still better then not having it!
 ### Alright, that wasn't much but I'll try it
 
 ![Alt Text](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif)
+
 Ok, so here is the basic documentation down below!
 
 **Demo script**
