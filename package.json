@@ -11,5 +11,10 @@
     "type": "git",
     "url": "https://github.com/Jacobboogiebear/electron-aspectratio.git"
   },
+  "keywords": [
+    "electron",
+    "aspect",
+    "ratio"
+  ],
   "license": "MIT"
 }
